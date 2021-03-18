@@ -7,6 +7,6 @@ In these days, many people look at various factors when choosing their colleges.
 _How are colleges grouped based on the the different metrics of instructional expenditures per student, net cost of attendance, and median earnings after graduation? How does these variables contribute to social mobility rates of colleges?_
 
 ## Cluster Analysis
-![alt text]
+![alt text](https://github.com/justinjiholee/college-social-mobility/blob/main/Cluster%20Analysis.png)
 
 
