@@ -33,4 +33,5 @@ The chart above displays that Columbia Unviersity has the highest mobility rate 
 
 ## Conclusion
 Social mobility rates are becoming an important factor to consider when students are choosing their colleges. As there could be many factors contributing to the mobility rates, I have decided to conduct a cluster analysis to find the relationship between instruction expenditures per student, net cost of attendance, median earnings after graduation, and social mobility rates. 
+
 From the cluster analysis, Columbia University shows that it has the highest social mobility rates, while instruction expenditures, net cost of attendance, and median earnings also above the average. While we might be able to say that there is a positive correlation, the graph actually shows that Columbia's instruction expenditures, net cost of attendance, and median earnings are not significantly higher compared to other schools which had low mobility rates.
