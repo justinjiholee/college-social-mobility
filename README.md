@@ -19,6 +19,8 @@ Extracting the data from [Opportunity Insights Data Library](https://opportunity
 
 **Cluster 4** has standard deviations of all instructional expenditures, net cost of attendance, and median earnings above the average. The social mobility rate is very high above the average.
 
+From this analysis, Columbia University had the highest social mobility rate. The school also had instructional expenditures, net cost of attendance, and median earnings higher than the average. We could say that there is a positive correlation between these factors and social mobility rate. 
+
 ## Cluster Chart
 ![alt text](https://github.com/justinjiholee/college-social-mobility/blob/main/Cluster%20Chart.png) 
 
