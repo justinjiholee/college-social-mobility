@@ -18,3 +18,6 @@ Extracting the data from [Opportunity Insights Data Library](https://opportunity
 **Cluster 3** has the highest standard deviations of median earnings. Instructional expenditures are slightly above the average and net cost of attendance is below the average. The social mobility rate is slightly below the average.
 
 **Cluster 4** has standard deviations of all instructional expenditures, net cost of attendance, and median earnings above the average. The social mobility rate is very high above the average.
+
+## Cluster Chart
+![alt text]
