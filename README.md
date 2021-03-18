@@ -20,4 +20,4 @@ Extracting the data from [Opportunity Insights Data Library](https://opportunity
 **Cluster 4** has standard deviations of all instructional expenditures, net cost of attendance, and median earnings above the average. The social mobility rate is very high above the average.
 
 ## Cluster Chart
-![alt text]
+![alt text](https://github.com/justinjiholee/college-social-mobility/blob/main/Cluster%20Chart.png) 
