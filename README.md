@@ -27,4 +27,4 @@ Extracting the data from [Opportunity Insights Data Library](https://opportunity
 **Cluster 3**:Median Earnings
 **Cluster 4**:Mobility Rate
 
-
+The chart above displays that Columbia Unviersity has the highest mobility rate while intructional expenditures, net cost of attendance, and median earnings are not significantly high compared to other schools. While Berkshire Community College has the highest median earnings, the social mobility rate is below the average. Thus, it would be insignificant to conclude that intructional expenditures, net cost of attendacne, and median earnings affect the social mobility rate from this visual.  
