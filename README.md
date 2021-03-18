@@ -21,3 +21,10 @@ Extracting the data from [Opportunity Insights Data Library](https://opportunity
 
 ## Cluster Chart
 ![alt text](https://github.com/justinjiholee/college-social-mobility/blob/main/Cluster%20Chart.png) 
+
+**Cluster 1**:Instructional Expenditures
+**Cluster 2**:Net Cost of Attendance
+**Cluster 3**:Median Earnings
+**Cluster 4**:Mobility Rate
+
+
